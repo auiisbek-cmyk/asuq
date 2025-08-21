@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335266155064",
+    "project_id": "asyq-d3614",
+    "storage_bucket": "asyq-d3614.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335266155064:android:22cccc2d12fd94964574cd",
+        "android_client_info": {
+          "package_name": "com.example.azyq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9VVSvCzSvTYnajk9GPiRrEqEKqTR_d0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
